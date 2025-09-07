@@ -1,12 +1,12 @@
 {
     "name": "pftc",
     "description": "PokeFred Template-Cloner",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": "pokefred29",
     "bin": {
         "pftc": "./src/main.js"
     },
-    "files": ["./src"],
+    "files": ["./src", "./temp"],
     "dependencies": {
         "@clack/prompts": "^0.11.0",
         "commander": "^14.0.0",
