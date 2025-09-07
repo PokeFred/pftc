@@ -1,0 +1,9 @@
+{
+    "name": "pftc",
+    "description": "PokeFred Template-Cloner",
+    "author": "pokefred29",
+    "version": "0.0.0",
+    "type": "module",
+    "bin": "./src/main.js",
+    "license": "MIT"
+}
