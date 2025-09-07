@@ -1,7 +1,7 @@
 {
     "name": "pftc",
     "description": "PokeFred Template-Cloner",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "author": "pokefred29",
     "bin": {
         "pftc": "./src/main.js"
